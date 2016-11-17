@@ -1,0 +1,19 @@
+{
+  "name": "selectize-custom-data-plugin",
+  "descriiption": "This Selectize.js plugin allows for custom data to be used to populate data attributes in the tag elements.",
+  "dependencies": {
+    "selectize": ">=0.12.4"
+  },
+  "main": [
+    "src/plugin.js"
+  ],
+  "keywords": [
+    "selectize",
+    "custom",
+    "data"
+  ],
+  "authors": [
+    "Aydaen Lynch <aydaen@gmail.com>"
+  ],
+  "license": "MIT"
+}

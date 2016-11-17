@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Standard .gitignore template
+## generic files to ignore
+*~
+*.lock
+.DS_Store
+Thumbs.db
+.svn
+.hg
+*.swp
+*.out
+.idea
+*#
+._*
+.tags
